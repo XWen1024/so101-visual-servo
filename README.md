@@ -1,4 +1,4 @@
-# Visual Tracker — LeRobot SO-ARM101 机械臂视觉抓取系统
+# Visual Servo — LeRobot SO-ARM101 机械臂视觉抓取系统
 
 本项目包含两套独立的视觉系统，共享同一套摄像头与 GUI 基础设施：
 
